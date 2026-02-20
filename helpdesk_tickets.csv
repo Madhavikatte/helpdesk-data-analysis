@@ -1,0 +1,101 @@
+ticket_id,created_date,resolved_date,priority,status,issue_type,agent,resolution_time
+1,2025-07-13,2025-07-21,Low,Closed,Login Issue,Agent C,8
+2,2026-02-10,2026-02-15,Medium,Closed,Account Locked,Agent A,5
+3,2025-12-11,2025-12-20,High,Resolved,Bug Report,Agent A,9
+4,2025-10-13,2025-10-20,Critical,Resolved,Account Locked,Agent E,7
+5,2025-06-02,2025-06-11,Low,In Progress,Login Issue,Agent D,9
+6,2025-10-31,2025-11-03,High,Closed,Account Locked,Agent E,3
+7,2025-03-13,2025-03-16,Low,Resolved,Feature Request,Agent E,3
+8,2025-10-03,2025-10-06,Critical,Resolved,Bug Report,Agent D,3
+9,2025-11-11,2025-11-21,High,Resolved,Bug Report,Agent A,10
+10,2025-03-11,2025-03-20,High,Resolved,Login Issue,Agent A,9
+11,2025-02-21,2025-02-21,Medium,Open,Account Locked,Agent C,0
+12,2025-03-20,2025-03-21,Critical,Resolved,Payment Failure,Agent A,1
+13,2025-02-20,2025-03-01,High,Closed,Account Locked,Agent B,9
+14,2025-12-23,2026-01-01,Medium,Resolved,Payment Failure,Agent B,9
+15,2025-07-05,2025-07-15,Low,In Progress,Bug Report,Agent A,10
+16,2026-02-14,2026-02-17,Critical,Closed,Bug Report,Agent C,3
+17,2025-08-20,2025-08-25,High,In Progress,Bug Report,Agent E,5
+18,2025-11-26,2025-11-27,High,Resolved,Bug Report,Agent C,1
+19,2025-05-16,2025-05-23,Low,In Progress,Account Locked,Agent C,7
+20,2025-04-07,2025-04-10,Medium,Open,Bug Report,Agent D,3
+21,2025-04-27,2025-05-04,Medium,In Progress,Bug Report,Agent A,7
+22,2025-09-18,2025-09-20,High,Resolved,Bug Report,Agent E,2
+23,2026-01-12,2026-01-16,Low,Resolved,Feature Request,Agent A,4
+24,2025-03-21,2025-03-30,Critical,Closed,Payment Failure,Agent B,9
+25,2025-09-12,2025-09-12,High,Resolved,Account Locked,Agent A,0
+26,2025-08-23,2025-08-23,Critical,Open,Feature Request,Agent A,0
+27,2025-11-17,2025-11-25,Medium,Resolved,Payment Failure,Agent C,8
+28,2025-09-12,2025-09-12,Medium,Closed,Payment Failure,Agent C,0
+29,2025-10-01,2025-10-07,Low,Open,Payment Failure,Agent D,6
+30,2026-01-14,2026-01-16,Critical,Resolved,Feature Request,Agent B,2
+31,2026-01-10,2026-01-13,High,In Progress,Payment Failure,Agent A,3
+32,2025-08-06,2025-08-15,Critical,Resolved,Login Issue,Agent A,9
+33,2025-11-17,2025-11-20,Critical,Closed,Login Issue,Agent A,3
+34,2025-08-04,2025-08-07,High,In Progress,Login Issue,Agent B,3
+35,2025-12-28,2026-01-03,Medium,Open,Feature Request,Agent B,6
+36,2025-12-21,2025-12-30,Low,Closed,Login Issue,Agent A,9
+37,2025-07-25,2025-07-25,Medium,Resolved,Login Issue,Agent D,0
+38,2026-02-03,2026-02-13,Medium,In Progress,Bug Report,Agent A,10
+39,2025-08-16,2025-08-25,High,In Progress,Account Locked,Agent E,9
+40,2026-01-03,2026-01-03,Critical,Resolved,Feature Request,Agent C,0
+41,2025-10-06,2025-10-10,Critical,In Progress,Account Locked,Agent A,4
+42,2025-03-02,2025-03-11,High,Closed,Bug Report,Agent B,9
+43,2026-01-31,2026-02-02,Medium,In Progress,Account Locked,Agent B,2
+44,2025-08-21,2025-08-30,Medium,In Progress,Login Issue,Agent D,9
+45,2025-11-14,2025-11-15,Low,Open,Payment Failure,Agent A,1
+46,2025-10-05,2025-10-14,Medium,Resolved,Account Locked,Agent A,9
+47,2025-06-04,2025-06-04,High,Closed,Account Locked,Agent E,0
+48,2025-11-09,2025-11-09,Low,Closed,Feature Request,Agent C,0
+49,2025-09-02,2025-09-03,Medium,Open,Payment Failure,Agent E,1
+50,2025-09-06,2025-09-13,High,In Progress,Payment Failure,Agent B,7
+51,2026-01-26,2026-01-28,Low,Closed,Bug Report,Agent C,2
+52,2025-02-26,2025-03-01,High,Resolved,Login Issue,Agent A,3
+53,2025-12-04,2025-12-04,Low,Resolved,Login Issue,Agent C,0
+54,2025-03-12,2025-03-13,Critical,In Progress,Feature Request,Agent A,1
+55,2025-04-22,2025-04-27,Medium,Resolved,Feature Request,Agent C,5
+56,2025-05-19,2025-05-25,Medium,Resolved,Bug Report,Agent D,6
+57,2026-02-07,2026-02-17,High,Resolved,Account Locked,Agent B,10
+58,2025-11-05,2025-11-11,Medium,Resolved,Payment Failure,Agent B,6
+59,2026-02-16,2026-02-25,Low,In Progress,Payment Failure,Agent A,9
+60,2025-12-28,2025-12-30,Critical,Open,Feature Request,Agent B,2
+61,2025-05-21,2025-05-24,Critical,Resolved,Login Issue,Agent E,3
+62,2025-04-22,2025-04-25,Critical,Closed,Account Locked,Agent A,3
+63,2025-02-20,2025-02-23,Low,Open,Payment Failure,Agent B,3
+64,2026-02-10,2026-02-20,Medium,Closed,Payment Failure,Agent D,10
+65,2025-07-16,2025-07-19,Critical,Resolved,Account Locked,Agent B,3
+66,2025-10-26,2025-11-04,Medium,Closed,Login Issue,Agent D,9
+67,2025-02-27,2025-03-07,Medium,In Progress,Account Locked,Agent C,8
+68,2025-07-15,2025-07-16,Critical,Open,Payment Failure,Agent E,1
+69,2025-03-28,2025-04-06,Medium,Open,Bug Report,Agent D,9
+70,2026-02-02,2026-02-12,Critical,Closed,Bug Report,Agent B,10
+71,2025-12-02,2025-12-06,Low,Resolved,Feature Request,Agent A,4
+72,2025-10-08,2025-10-17,Low,Resolved,Feature Request,Agent D,9
+73,2025-11-13,2025-11-15,Low,In Progress,Feature Request,Agent D,2
+74,2025-04-04,2025-04-05,Medium,Closed,Account Locked,Agent D,1
+75,2025-08-03,2025-08-05,High,Closed,Payment Failure,Agent B,2
+76,2025-05-11,2025-05-15,Medium,Resolved,Login Issue,Agent C,4
+77,2026-01-01,2026-01-10,Critical,Closed,Payment Failure,Agent D,9
+78,2025-08-01,2025-08-06,High,Closed,Feature Request,Agent B,5
+79,2025-05-04,2025-05-13,Low,Open,Account Locked,Agent C,9
+80,2026-02-08,2026-02-08,High,In Progress,Login Issue,Agent C,0
+81,2025-06-28,2025-07-05,Critical,Resolved,Account Locked,Agent D,7
+82,2026-01-05,2026-01-13,High,Open,Feature Request,Agent D,8
+83,2026-01-22,2026-01-22,Low,Open,Feature Request,Agent B,0
+84,2025-04-28,2025-05-04,Critical,Resolved,Feature Request,Agent C,6
+85,2025-08-03,2025-08-05,Critical,Closed,Account Locked,Agent B,2
+86,2025-11-17,2025-11-21,Medium,Resolved,Feature Request,Agent C,4
+87,2025-11-28,2025-12-08,Medium,In Progress,Payment Failure,Agent D,10
+88,2025-04-03,2025-04-09,Critical,Resolved,Bug Report,Agent A,6
+89,2025-12-12,2025-12-17,Low,Resolved,Feature Request,Agent D,5
+90,2025-03-25,2025-04-02,Low,In Progress,Login Issue,Agent D,8
+91,2025-11-24,2025-12-03,Medium,Open,Payment Failure,Agent C,9
+92,2025-12-12,2025-12-20,Medium,Resolved,Login Issue,Agent D,8
+93,2026-01-10,2026-01-10,Low,Resolved,Feature Request,Agent D,0
+94,2025-12-01,2025-12-08,Critical,Resolved,Account Locked,Agent A,7
+95,2026-01-27,2026-01-28,Medium,Resolved,Login Issue,Agent C,1
+96,2025-08-22,2025-09-01,Critical,In Progress,Bug Report,Agent A,10
+97,2025-03-08,2025-03-08,Low,Resolved,Payment Failure,Agent B,0
+98,2025-02-20,2025-02-25,High,Resolved,Payment Failure,Agent C,5
+99,2025-08-10,2025-08-19,Medium,Open,Account Locked,Agent A,9
+100,2026-01-15,2026-01-18,Low,Closed,Payment Failure,Agent B,3
